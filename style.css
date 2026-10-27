@@ -1,0 +1,28 @@
+h3{
+    color: rgb(226, 43, 43);
+}
+.name{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.email{
+    color:yellow;
+}
+.phonenumber{
+    color:rgb(43, 226, 144)
+}
+.password{
+    color:rgb(255, 80, 235)
+}
+.gender{
+    color:chartreuse;
+}
+.photo{
+    color:darkolivegreen
+}
+.color{
+    color:pink;
+}
+.country{
+    color:black
+}
